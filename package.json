@@ -1,5 +1,9 @@
 {
   "name": "code100-puzzles",
   "version": "1.0.0",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "type": "module"
 }
